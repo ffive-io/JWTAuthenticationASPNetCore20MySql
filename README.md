@@ -22,7 +22,7 @@ This article can be found [here](http://ffive.io/develop-an-asp-net-core-applica
 - [Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql "Pomelo.EntityFrameworkCore.MySql") 
 
 
-### Add Dependancies
+### Add Dependencies
 
 Microsoft currently does not officially support MySQL data provider for EF Core. There is an open source package [Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql "Pomelo.EntityFrameworkCore.MySql") maintained by Pomelo Foundation.
 
