@@ -4,11 +4,11 @@
 
 ### Introduction
 
-[Read the previous posts - JWT Based Authentication Using ASP.Net Core 2.0 - Part 1](http://ffive.io/jwt-based-authentication-using-asp-net-core-2-0-part-1/ "JWT Based Authentication Using ASP.Net Core 2.0 - Part 1")
+#### Read the previous posts: 
 
-[JWT Based Authentication Using ASP.Net Core 2.0 - Part 2](http://ffive.io/jwt-based-authentication-using-asp-net-core-2-0-part-2/ "JWT Based Authentication Using ASP.Net Core 2.0 - Part 2")
-
-[JWT Based Authentication Using ASP.Net Core 2.0 - Part 3](http://ffive.io/jwt-based-authentication-using-asp-net-core-2-0-part-3/ "JWT Based Authentication Using ASP.Net Core 2.0 - Part 3")
+- [JWT Based Authentication Using ASP.Net Core 2.0 - Part 1](http://ffive.io/jwt-based-authentication-using-asp-net-core-2-0-part-1/ "JWT Based Authentication Using ASP.Net Core 2.0 - Part 1")
+- [JWT Based Authentication Using ASP.Net Core 2.0 - Part 2](http://ffive.io/jwt-based-authentication-using-asp-net-core-2-0-part-2/ "JWT Based Authentication Using ASP.Net Core 2.0 - Part 2")
+- [JWT Based Authentication Using ASP.Net Core 2.0 - Part 3](http://ffive.io/jwt-based-authentication-using-asp-net-core-2-0-part-3/ "JWT Based Authentication Using ASP.Net Core 2.0 - Part 3")
 
 I'm assuming that you went through the above articles. In these examples we've used Microsoft SQL Server as our backend. In this article we will try to convert the backend to MySQL.
 
